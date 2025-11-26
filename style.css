@@ -10,10 +10,12 @@ main{
     max-width:420px;
     margin: auto;
     background-color: #fff;
+    min-height: 100vh;
+    
 }
 .top-section {
     background: #000;
-    padding: 40px 0;
+    padding: 20px 0;
     text-align: center;
     color: #fff;
 }
@@ -46,7 +48,7 @@ main{
     padding: 30px;
 }
 .social-icons i {
-    font-size: 30px;
+    font-size: 20px;
     margin: 6px;
     cursor: pointer;
 }
